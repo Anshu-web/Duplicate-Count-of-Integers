@@ -10,7 +10,7 @@ public class Test1 {
 	
 	public static void main(String[] args) {
 		
-		int [] arr= {8,9,10,9,8,10,11,5,0};
+		int [] arr= {8,9,10,9,8,10,11,5,0,2};
 		
 		StringBuffer sb=new StringBuffer();
 		Set<Integer> set=new HashSet<>();
