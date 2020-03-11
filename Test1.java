@@ -22,7 +22,7 @@ public class Test1 {
 		{
 			
 			set.add(arr[i]);
-			sb.append(arr[i]+" ");
+			sb.append(arr[i]+" ");//git push --force origin master//2306901017731
 		}
 		
 		}
